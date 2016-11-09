@@ -1,0 +1,8 @@
+platform :ios, '7.0'
+
+target "Controls_Self" do
+
+pod 'AFNetworking'
+pod 'ReactiveCocoa'
+
+end
